@@ -1,0 +1,9 @@
+package me.dio.domain.model;
+
+import lombok.Getter;
+import lombok.Setter;
+
+
+public class News extends BaseItem {
+
+}

@@ -1,0 +1,7 @@
+package me.dio.domain.model;
+
+public class Feature {
+	private Long id;
+	private String icon;
+	private String description;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;santander-dev-week-2024&apos;&#x0D;&#x0A;- Original project: &apos;santander-dev-week-2024&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     static&#x0D;&#x0A;     templates&#x0D;&#x0A;     application.properties" description="Delete elements" element1="src/main/resources/templates" element2="src/main/resources/application.properties" element3="src/main/resources/static" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1721677888924" subPackages="false" version="1.0"/>
+</session>
