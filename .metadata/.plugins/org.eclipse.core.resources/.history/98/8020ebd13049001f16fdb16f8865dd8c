@@ -1,0 +1,12 @@
+package me.dio.domain.controller.exception;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class GlobalExceptionHandler {
+	// métodos
+	public ResponseEntity<String> handle() {
+		return null;
+	}
+}
